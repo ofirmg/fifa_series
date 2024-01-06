@@ -1,9 +1,9 @@
 # Football Insights from FIFA Data - Medium series
 This repo contains the code base for the <a href="https://medium.com/@ofirmagdaci">"Football Insights from FIFA Data"</a> articles series by Ofir Magdaci at medium.com
 The project consists of three papers:
-1. <a hred="https://medium.com/@ofirmagdaci/football-insights-from-fifa-data-what-comes-and-goes-with-age-2c4636bc99d1">What Comes and Goes with Age</a>
-2. <a hred="https://medium.com/@ofirmagdaci/football-insights-from-fifa-data-player-valuation-55b1b748e05d">Player Valuation</a>
-3. <a hred="https://medium.com/@ofirmagdaci/">Predicting the Future</a>
+1. <a href="https://medium.com/@ofirmagdaci/football-insights-from-fifa-data-what-comes-and-goes-with-age-2c4636bc99d1">What Comes and Goes with Age</a>
+2. <a href="https://medium.com/@ofirmagdaci/football-insights-from-fifa-data-player-valuation-55b1b748e05d">Player Valuation</a>
+3. <a href="https://medium.com/@ofirmagdaci/">Predicting the Future</a>
 
 ## Notes & disclaimers 
 Two important disclaimers before you start:
