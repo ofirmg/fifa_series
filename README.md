@@ -6,7 +6,7 @@ The project consists of three papers:
 3. <a href="https://medium.com/@ofirmagdaci/">Predicting the Future</a>
 
 ## Notes & disclaimers 
-Two important disclaimers before you start:
+Three important disclaimers before you start:
 1. The code of this repo is merely experimental. It was written in playground standrads and quality, without proper unittestings and any care for best practices. Do not use it for production purposes.
 2. The dataset used in this project is not publicly available (at least not formally by EA). Hence, I will merely point to its sources (see below).
 3. The last part code, 'Predicting the Future' is private and not part of this repository.
