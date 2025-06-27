@@ -1,0 +1,11 @@
+pandas
+numpy
+catboost
+sklearn
+scipy
+xgboost
+pytorch_tabnet
+tqdm
+tslearn
+plotly
+torch
