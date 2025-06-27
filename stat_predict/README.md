@@ -7,7 +7,7 @@ The project consists of three posts:
    What Comes and Goes with Age</a> - a deep dive into how football attributes evolve with player age.
 2. <a href="https://medium.com/@ofirmagdaci/football-insights-from-fifa-data-player-valuation-55b1b748e05d">Player
    Valuation</a> - estimating player market value based on performance and age.
-3. <a href="https://medium.com/@ofirmagdaci/](https://medium.com/@ofirmagdaci/football-insights-from-fifa-data-predicting-the-future-59891408e8dd">Predicting the Future</a> - modeling future growth and identifying
+3. <a href="https://medium.com/@ofirmagdaci/football-insights-from-fifa-data-predicting-the-future-59891408e8dd">Predicting the Future</a> - modeling future growth and identifying
    rising stars.
 
 ## ⚠️ Notes & Disclaimers
